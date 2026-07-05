@@ -1,6 +1,6 @@
 # cpp-practice
 C++ practice repository focused on problem-solving and strengthening core programming concepts.
-
+Every program have Algorithm
 # C++ Practice Repository
 
 ## Overview
