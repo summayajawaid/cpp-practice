@@ -1,7 +1,8 @@
 //count digit in a number..
 // 1.take input a numbers list.
 // 2. take exact number to count.
-// 3.make a loop in which it move through wvery nmber and count exact number
+// 3.make a loop
+//in which it move through very nmber  count exact number
 // 4. write a comand to count digit in number .
 #include<iostream>
 using namespace std;
