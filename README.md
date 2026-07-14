@@ -7,7 +7,7 @@ Every program have Algorithm
 
 This repository documents my structured journey of mastering C++ through consistent problem-solving, progressing from basic concepts to interview-level challenges.
 
----
+
 
 ## Objectives
 
