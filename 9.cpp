@@ -1,4 +1,4 @@
-// Reverse a number (123 → 321).
+/ Reverse a number (123 → 321).
 #include <iostream>
 using namespace std;
 
