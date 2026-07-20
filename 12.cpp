@@ -13,4 +13,3 @@ int main() {
     }
     cout << "Sum of array elements: " << sum << endl;
     return 0;
-}
