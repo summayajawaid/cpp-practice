@@ -53,7 +53,7 @@ This repository documents my structured journey of mastering C++ through consist
 13. Find average of array
 14. Find maximum element
 15. Find minimum element
-16. Count even numbers in array
+1. Count even numbers in array
 17. Count odd numbers in array
 
 ---
