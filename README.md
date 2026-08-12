@@ -80,7 +80,6 @@ This repository documents my structured journey of mastering C++ through consist
 26. Function to calculate sum
 27. Function to check palindrome
 
----
 
 ### Level 5 — Logic Building
 
