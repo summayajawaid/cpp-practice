@@ -31,7 +31,7 @@ This repository documents my structured journey of mastering C++ through consist
 5. Take input `n` and print 1 → n
 6. Take input `n` and print sum from 1 → n
 
----
+
 
 ### Level 1 — Loop Control
 
